@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 # Requisitos: pandas, matplotlib
 import pandas as pd
 import matplotlib.pyplot as plt
